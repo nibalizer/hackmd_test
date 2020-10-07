@@ -6,6 +6,11 @@
 * so testing
 * wow
 
+## this is made during the meeting
+
+* wheee
+* happy birthday
+
 ## wow so many updates and demos
 
 * huzzah
